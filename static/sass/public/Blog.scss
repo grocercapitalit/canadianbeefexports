@@ -5,25 +5,6 @@
   @include font-size(18px);
 }
 
-.side-2 {
-  @include font-size(16px);
-
-  ul.list {
-    padding-left:5px;
-    list-style:none;
-    .sublist{
-      @include font-size(14px);
-      padding-left:25px;
-    }
-  }
-  ul.tags{
-    padding-left:25px;
-    li{
-      text-transform:capitalize;
-    }
-  }
-}
-
 .center-2 {
   .blog-page {
     .page-title {

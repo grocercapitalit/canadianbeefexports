@@ -2,21 +2,6 @@
   font-size: 18px;
   font-size: 1.125rem; }
 
-.side-2 {
-  font-size: 16px;
-  font-size: 1rem; }
-  .side-2 ul.list {
-    padding-left: 5px;
-    list-style: none; }
-    .side-2 ul.list .sublist {
-      font-size: 14px;
-      font-size: 0.875rem;
-      padding-left: 25px; }
-  .side-2 ul.tags {
-    padding-left: 25px; }
-    .side-2 ul.tags li {
-      text-transform: capitalize; }
-
 .center-2 .blog-page .page-title {
   background-color: #999085;
   color: #fff;
